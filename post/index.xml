@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rigann LUN profil</title>
+    <link>https://rigann.github.io/post/</link>
+    <description>Recent content in Posts on Rigann LUN profil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2020 22:27:09 -0400</lastBuildDate>
+    
+	<atom:link href="https://rigann.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20200407 Formula</title>
+      <link>https://rigann.github.io/post/20200407-formula/</link>
+      <pubDate>Tue, 07 Apr 2020 22:27:09 -0400</pubDate>
+      
+      <guid>https://rigann.github.io/post/20200407-formula/</guid>
+      <description>This is another formula I want to share with you. 1. Simple as it. Another title This is a simple section where nothing is important.
+ How to deal with italic
+ one section second section  Insert image click
+Nice logo: quotation: this is something useful</description>
+    </item>
+    
+    <item>
+      <title>My First Post with HUGO</title>
+      <link>https://rigann.github.io/post/first-post/</link>
+      <pubDate>Tue, 07 Apr 2020 08:47:11 +0100</pubDate>
+      
+      <guid>https://rigann.github.io/post/first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
